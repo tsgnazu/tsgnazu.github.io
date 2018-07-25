@@ -7,9 +7,9 @@
 }
 
 body {
-    color: #fff;
+    color: rgb(0, 0, 0);
     font-family: 'Lato', Arial, sans-serif;
-    background: #d2d1d5;
+    background: ;
 }
 
 .ms-wrapper {
@@ -273,8 +273,8 @@ body {
     font-size: 16px;
     letter-spacing: 1px;
     padding: 10px 30px;
-    border: 3px solid #fff;
-    color: #fff;
+    border: 3px solid rgb(0, 0, 0);
+    color: rgb(0, 0, 0);
     position: absolute;
     top: 1em;
     left: 1em;
